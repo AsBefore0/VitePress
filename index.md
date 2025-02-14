@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "With_X的网站"
   text: "Welcome to our website"
-  tagline: My great project tagline
+  tagline: 根本是小熊
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
