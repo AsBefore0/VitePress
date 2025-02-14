@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "With_X的博客"
+  name: "With_X的网站"
   text: "Welcome to our website"
   tagline: My great project tagline
   actions:
